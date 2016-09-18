@@ -1,0 +1,10 @@
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\KeyGeneratorService.dll.config
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\KeyGeneratorService.dll
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\KeyGeneratorService.pdb
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\EntityFramework.dll
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\EntityFramework.xml
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\obj\Debug\KeyGeneratorService.dll
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\obj\Debug\KeyGeneratorService.pdb
+E:\MyProjects\Key\KeyGenerator\KeyGeneratorService\obj\Debug\KeyGeneratorService.csprojResolveAssemblyReference.cache

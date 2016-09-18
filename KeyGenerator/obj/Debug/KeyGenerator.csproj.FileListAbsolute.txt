@@ -1,0 +1,15 @@
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.exe.config
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.exe
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.pdb
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\KeyGeneratorService.dll
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\EntityFramework.dll
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\KeyGeneratorService.pdb
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\EntityFramework.xml
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.csprojResolveAssemblyReference.cache
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.exe
+E:\MyProjects\Key\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.pdb
+E:\MyProjects\keygit\LicenseKey\KeyGenerator\bin\Debug\KeyGenerator.exe.config
+E:\MyProjects\keygit\LicenseKey\KeyGenerator\obj\Debug\KeyGenerator.exe
+E:\MyProjects\keygit\LicenseKey\KeyGenerator\obj\Debug\KeyGenerator.pdb
