@@ -56,7 +56,7 @@ namespace KeyGeneratorService
                 if (user != null)
                 {
                     subscription = user.Subscription;
-                    saltValue = new byte[32];
+                    saltValue = user.SaltValue;
                 }
                 string[] hashKeys = GenerateHashKey(userName, companyCode).Split(':');
                 Rfc2898DeriveBytes value = new Rfc2898DeriveBytes(hashKeys[0] + hashKeys[1], saltValue);
