@@ -6,9 +6,13 @@ namespace KeyGenerator
     {
         static void Main(string[] args)
         {
+            bool isValid;
             AuthenticationValidator authenticationValidator = new AuthenticationValidator();
             bool isSuccess = authenticationValidator.GenerateSubscriptionKey("hansamali", 1111);
-            bool isValid = authenticationValidator.ValidateSubscriptionKey("hansamali", 1111);
+            //valid scenario
+            isValid = authenticationValidator.ValidateSubscriptionKey("hansamali", 1111);
+            //invalid scenario
+            isValid = authenticationValidator.ValidateSubscriptionKey("hansamali", 1112);
 
         }
     }

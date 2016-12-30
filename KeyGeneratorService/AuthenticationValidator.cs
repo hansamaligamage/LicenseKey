@@ -59,11 +59,14 @@ namespace KeyGeneratorService
                     saltValue = user.SaltValue;
                 }
                 string[] hashKeys = GenerateHashKey(userName, companyCode).Split(':');
-                Rfc2898DeriveBytes value = new Rfc2898DeriveBytes(hashKeys[0] + hashKeys[1], saltValue);
-                byte[] key = value.GetBytes(64);
-                bool result = subscription.SequenceEqual(key);
-                if (result && user.ExpiryDate >= DateTime.Now)
-                    isValid = true;
+                if (hashKeys.Length == 2)
+                {
+                    Rfc2898DeriveBytes value = new Rfc2898DeriveBytes(hashKeys[0] + hashKeys[1], saltValue);
+                    byte[] key = value.GetBytes(64);
+                    bool result = subscription.SequenceEqual(key);
+                    if (result && user.ExpiryDate >= DateTime.Now)
+                        isValid = true;
+                }
             }
             return isValid;
         }
